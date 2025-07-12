@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Shinu-ku
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...game dev
+- 📫 How to reach me ... forget about it 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm alive
 
