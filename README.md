@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shinu-ku
+- 👋 Hi, I’m @Soumya Kushwah
 - 💞️ I’m looking to collaborate on ...game dev
 - 📫 How to reach me ... forget about it 
 - 😄 Pronouns: he/him
