@@ -1,10 +1,55 @@
-- 👋 Hi, I’m @Soumya Kushwah
-- 💞️ I’m looking to collaborate on ...game dev
-- 📫 How to reach me ... forget about it 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm alive
+# 👋 Hi there, I'm Shinu!
 
-<!---
-Shinu-ku/Shinu-ku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Diploma in Engineering (Vocational IT) student at **Dayalbagh Educational Institute**  
+🎮 Aspiring **Game Developer**  
+💻 Passionate about programming, problem-solving, and building interactive experiences
+
+---
+
+## 🚀 About Me
+- 🌱 Currently learning **Game Development & Programming**
+- 🎯 Goal: To work professionally in **Game Development**
+- 🧠 Interested in **Game Engines, Logic Building, and Software Development**
+- ⚡ I enjoy turning ideas into playable realities
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** C, C++, Java, Python 
+- **Game Development:** Basics of Game Logic, OOP Concepts
+- **Tools:** Git, GitHub, VS Code
+- **Other:** Problem Solving, Debugging, Teamwork
+
+---
+
+## 🎮 Game Dev Journey
+- 🕹️ Learning core concepts like:
+  - Game loops
+  - Player movement
+  - Collision detection
+  - Basic AI logic
+- 🔧 Planning to work with:
+  - Unity / Unreal Engine *(future goal)*
+
+---
+
+## 📌 Projects
+🚧 *Projects coming soon…*  
+Stay tuned! I’ll be uploading:
+- Mini games  
+- Practice programs  
+- Game prototypes  
+
+---
+
+## 📫 Connect With Me
+- 💼 GitHub: **[https://github.com/Shinu-ku]**
+- 📧 Email: **[soumyakushwah73@gmail.com]**
+
+---
+
+## 🌟 Fun Fact
+> “Games are not just played — they are **engineered**.”
+
+Thanks for visiting my profile! ⭐  
+Feel free to explore my repositories and follow my journey 🚀
