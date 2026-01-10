@@ -43,7 +43,7 @@ Stay tuned! I’ll be uploading:
 ---
 
 ## 📫 Connect With Me
-- 💼 GitHub: **[https://github.com/Shinu-ku]**
+- 💼 linkedin: **[https://www.linkedin.com/in/soumya-kushwah-a4779b353/]**
 - 📧 Email: **[soumyakushwah73@gmail.com]**
 
 ---
