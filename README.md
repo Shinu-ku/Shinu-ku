@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shinu!
+# 👋 Hi there, I'm Soumya Kushwah (Shinu)!
 
 🎓 Diploma in Engineering (Vocational IT) student at **Dayalbagh Educational Institute**  
 🎮 Aspiring **Game Developer**  
