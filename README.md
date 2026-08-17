@@ -408,19 +408,6 @@ My learning is intentionally broad right now.
 
 ---
 
-# 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shinu-ku&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinu-ku&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shinu-ku&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p>
