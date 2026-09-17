@@ -1,473 +1,331 @@
-# 👋 Hi, I'm Soumya Kushwah — Shinu
+<div align="center">
 
-### B.Tech CSE Student · Software Developer · Builder · Technology Explorer
+# 👋 Hi, I'm Soumya Kushwah
+
+### `Software Developer` · `Web Developer` · `AI Explorer` · `Game Developer`
+
+I like turning ideas into **working software, interactive experiences, and experiments**.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://soumya-kushwah.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shinu-ku)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-kushwah-a4779b353/)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
 
 I'm a **B.Tech Computer Science & Engineering student at Noida Institute of Engineering and Technology (NIET)**, with a background in **Diploma in Engineering (Vocational IT)** from Dayalbagh Educational Institute.
 
-I enjoy building software and exploring technology across different layers of computing — from **web applications and backend systems to AI, databases, cloud computing, game development, audio processing, systems, and hardware**.
+My main areas of interest are:
 
-I don't want to restrict myself to a single technology or domain. I like understanding how things work, experimenting with new technologies, and turning ideas into **working software, tools, prototypes, and interactive experiences**.
+- 💻 **Software Development**
+- 🌐 **Web Development**
+- 🤖 **Artificial Intelligence**
+- 🎮 **Game Development**
 
----
+I learn best by **building things**. I enjoy experimenting with unfamiliar technologies, solving problems, debugging what breaks, and understanding how things work.
 
-## 🚀 About Me
-
-* 🎓 Pursuing **B.Tech in Computer Science & Engineering** at NIET
-* 💻 Interested in **Software Development, Web Development & Backend Engineering**
-* 🎮 Strong interest in **Game Development and Interactive Systems**
-* 🤖 Exploring **Artificial Intelligence, Machine Learning & NLP**
-* ☁️ Exploring **Cloud Computing, Servers, Networking & Distributed Systems**
-* 🗄️ Working with **Databases, APIs, Authentication & Backend Systems**
-* ⚙️ Interested in **Computer Architecture, Operating Systems, Microprocessors & Microcontrollers**
-* 🔊 Experimenting with areas such as **audio processing and real-time systems**
-* 🔬 Interested in **technical research, documentation and understanding how systems work internally**
-* 🧠 Constantly experimenting with **new technologies, frameworks and development approaches**
-* 🛠️ I learn best by **building things and solving real problems**
+> **Build → Break → Understand → Improve**
 
 ---
 
-## 🧭 My Areas of Interest
+## ⚡ My Playground
 
-My interests span across multiple areas of Computer Science:
+<table>
+<tr>
+<td width="25%" align="center">
 
-```text
-                         COMPUTER SCIENCE
-                                │
-       ┌────────────────────────┼────────────────────────┐
-       │                        │                        │
-    SOFTWARE                   WEB                    GAMES
-       │                        │                        │
-  Applications             Frontend               Gameplay
-  Backend                  Backend                Game Logic
-  APIs                     Databases              2D / 3D
-  Developer Tools          Deployment             Interactive Systems
-       │                        │                        │
-       └────────────────────────┼────────────────────────┘
-                                │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-             AI               CLOUD             SYSTEMS
-              │                 │                 │
-             ML              Servers          Architecture
-             NLP             Networking       Operating Systems
-             Data            Deployment       Low-level Computing
-              │                 │                 │
-              └─────────────────┼─────────────────┘
-                                │
-                    HARDWARE · RESEARCH · R&D
-                                │
-                Microprocessors · Controllers
-                Embedded Systems · Experiments
-                Technical Research · Documentation
-```
+### 💻
+**SOFTWARE**
 
-I'm particularly interested in **connecting these areas rather than treating them as isolated technologies**.
+Applications  
+Backend  
+APIs  
+Developer Tools
+
+</td>
+<td width="25%" align="center">
+
+### 🌐
+**WEB**
+
+Frontend  
+Backend  
+Full Stack  
+Interactive UI
+
+</td>
+<td width="25%" align="center">
+
+### 🤖
+**AI**
+
+LLMs  
+NLP  
+Local AI  
+Intelligent Apps
+
+</td>
+<td width="25%" align="center">
+
+### 🎮
+**GAMES**
+
+Gameplay  
+Game Logic  
+Mechanics  
+Interactive Worlds
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🛠️ Tech Stack
 
-## Programming Languages
+### Languages
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## Web Development
+### Web & Backend
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## Backend & Databases
+### Databases
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-Interested in:
+### AI & Game Development
 
-* REST APIs
-* Backend architecture
-* Database design
-* Authentication & authorization
-* Data persistence
-* Server-side applications
-* Application architecture
-
----
-
-## 🤖 AI / ML / NLP
-
-I'm actively exploring the broader field of intelligent software systems:
-
-* Artificial Intelligence
-* Machine Learning
-* Natural Language Processing
-* Local / Offline AI
-* LLM-based applications
-* AI-assisted developer tools
-* Data processing
-* Intelligent systems
-
-One example is **NOVA**, my offline AI-powered programming assistant for the terminal, built with Python and Ollama. It supports real-time streaming, multiple profiles, custom prompts and an installable CLI workflow.
-
----
-
-## ☁️ Cloud, Servers & Systems
-
-Exploring and working with:
-
-* Cloud Computing
-* Servers & Deployment
-* Linux
-* Networking Fundamentals
-* Distributed Systems
-* System Architecture
-* Operating Systems
-* Developer tooling
-* Application deployment
-
----
-
-## ⚙️ Hardware & Low-Level Computing
-
-My interest in computing goes beyond application-level software.
-
-I'm also exploring:
-
-* Computer Architecture
-* Microprocessors
-* Microcontrollers
-* Embedded Systems
-* Hardware-software interaction
-* Low-level programming concepts
-* Real-time systems
-* Digital systems
-
----
-
-## 🎮 Game Development
-
-Game Development is one of my strongest long-term interests, but it is part of a much broader software engineering journey.
-
-I enjoy the combination of **programming, mathematics, logic, systems design, graphics, interaction and optimization** involved in creating games.
-
-I'm interested in:
-
-* Gameplay programming
-* Game mechanics
-* Game architecture
-* Player movement & interaction
-* Collision systems
-* AI / NPC logic
-* 2D & 3D experiences
-* Real-time systems
-* Game optimization
-* Interactive simulations
-
-I've also experimented with game development using **Python and Pygame**, including my `ninja-training-game` project.
-
-My long-term goal is to combine strong **software engineering and computer science fundamentals** with game development to build increasingly sophisticated interactive experiences.
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
-## 01 · NOVA — Offline AI Programming Assistant
+<table>
+<tr>
+<td width="50%">
 
-**NOVA** is an offline AI-powered programming assistant designed to run directly from the terminal.
+## 🤖 NOVA
 
-It uses **Ollama** for local AI inference and provides real-time streaming responses, multiple personalities/profiles, custom prompts, a terminal UI and an installable CLI workflow.
+**Offline AI Programming Assistant**
 
-**Tech:** Python · Ollama · Rich · Prompt Toolkit · CLI
+An AI-powered programming assistant that runs directly from the terminal.
 
-**Focus:** AI · Developer Tools · Local AI · Python · CLI Applications
+**Built with:**  
+`Python` `Ollama` `Rich` `Prompt Toolkit`
 
-[View Repository](https://github.com/Shinu-ku/NOVA)
+[→ View Repository](https://github.com/Shinu-ku/NOVA)
 
----
+</td>
+<td width="50%">
 
-## 02 · QuestBoard — Gamified Productivity Platform
+## 🎯 QuestBoard
 
-A backend-driven productivity system built around the concept of turning tasks into **quests and progression**.
+**Gamified Productivity Platform**
 
-The project includes a structured Node.js application with routes, models, middleware, services, scheduling and a persistent backend architecture.
+A backend-driven productivity system that turns tasks into quests and progression.
 
-**Tech:** JavaScript · Node.js · Express · MongoDB
+**Built with:**  
+`JavaScript` `Node.js` `Express` `MongoDB`
 
-**Focus:** Full-Stack Development · Backend Engineering · Databases · Gamification
+[→ View Repository](https://github.com/Shinu-ku/QuestBoard)
 
-[View Repository](https://github.com/Shinu-ku/QuestBoard)
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
-## 03 · Watt-Quest
+## ⚡ Watt-Quest
 
-A recent web development project and one of my latest experiments.
+**Interactive Web Project**
 
-**Tech:** HTML · CSS · JavaScript
+A web development experiment focused on interactive user experiences.
 
-**Focus:** Web Development · UI · Interactive Web Experiences
+**Built with:**  
+`HTML` `CSS` `JavaScript`
 
-[View Repository](https://github.com/Shinu-ku/Watt-Quest)
+[→ View Repository](https://github.com/Shinu-ku/Watt-Quest)
 
----
+</td>
+<td width="50%">
 
-## 04 · Surround Amp — Real-Time Audio Processing
+## 🥷 Ninja Training Game
 
-A Python-based real-time audio amplifier that routes microphone or system audio to headphones or speakers with adjustable gain.
+**Game Development Experiment**
 
-The project focuses on **low-latency streaming, device selection and clipping protection**, while also experimenting with virtual surround sound and psychoacoustic processing.
+A game development project exploring gameplay, interaction, and game logic with Python.
 
-**Tech:** Python · NumPy · SoundDevice · DSP
+**Built with:**  
+`Python` `Pygame`
 
-**Focus:** Audio Processing · Real-Time Systems · DSP · Hardware Interaction
+[→ View Repository](https://github.com/Shinu-ku/ninja-training-game)
 
-[View Repository](https://github.com/Shinu-ku/surround_amp)
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
-## 05 · Project to Tree
+## 🌳 Project to Tree
 
-A lightweight Python utility that scans an existing project directory and generates a clean tree-style structure for documentation.
+**Developer Utility**
 
-It supports Windows, Linux and macOS without external dependencies and can generate `PROJECT_TREE.md` files for use in documentation, READMEs and technical discussions.
+A Python utility that converts project directories into clean tree structures for documentation.
 
-**Tech:** Python · File System · CLI
+**Built with:**  
+`Python` `CLI` `File System`
 
-**Focus:** Developer Tools · Automation · Documentation · Productivity
+[→ View Repository](https://github.com/Shinu-ku/Project_to_tree)
 
-[View Repository](https://github.com/Shinu-ku/Project_to_tree)
+</td>
+<td width="50%">
 
----
+## 🗂️ Tree to Project
 
-## 06 · Tree to Project
+**Project Scaffolding CLI**
 
-The reverse side of the project-structure workflow.
+Converts a project tree into its corresponding folders and files.
 
-This Python CLI takes a pasted tree diagram and creates the corresponding folders and files automatically, making it useful for bootstrapping projects from documentation, README structures or generated project layouts.
+**Built with:**  
+`Python` `CLI` `File System`
 
-**Tech:** Python · CLI · File System
+[→ View Repository](https://github.com/Shinu-ku/tree-structure-generator)
 
-**Focus:** Developer Productivity · Automation · Project Scaffolding
-
-[View Repository](https://github.com/Shinu-ku/tree-structure-generator)
-
----
-
-# 🧪 Experiments & Other Work
-
-My repositories also contain smaller projects, experiments and learning implementations across different areas of development.
-
-Some of them are intentionally small — the goal isn't always to create a production application. Sometimes the goal is to understand a concept by **implementing it from scratch**.
-
-This includes:
-
-* Programming fundamentals
-* Web experiments
-* Backend experiments
-* Game development
-* Developer utilities
-* System experiments
-* AI experiments
-* Hardware-oriented exploration
+</td>
+</tr>
+</table>
 
 ---
 
-# 🔬 Beyond Development
+# 🎮 Why Game Development?
 
-One of the things I enjoy most about Computer Science is that there is always another layer to investigate.
+Game development is where my interests in **programming, logic, creativity, interaction, and problem solving** come together.
+
+I'm interested in building:
+
+- Gameplay systems
+- Game mechanics
+- Player interaction
+- 2D / 3D experiences
+- Simulations
+- Interactive systems
+
+I see game development as another way to explore software — just with a much more interactive output.
+
+---
+
+# 🤖 AI × Software
+
+I'm particularly interested in using AI as part of real software rather than only studying models in isolation.
+
+One example is **NOVA**, my offline AI programming assistant using local inference with Ollama.
+
+I'm currently exploring:
+
+`Machine Learning` · `NLP` · `LLM Applications` · `Local AI` · `AI Developer Tools`
+
+---
+
+# 🧪 Experiments
+
+Not everything I build needs to become a large production project.
+
+Some projects are simply experiments created to:
+
+- Understand a concept
+- Try a new technology
+- Solve a small problem
+- Build something from scratch
+- See what happens
+
+That's an important part of how I learn.
+
+---
+
+# 📈 Currently Exploring
 
 ```text
-APPLICATIONS
-     │
-     ├── Web Applications
-     ├── Desktop Software
-     ├── Developer Tools
-     └── Games
-             │
-             ▼
-         BACKEND
-             │
-     ├── APIs
-     ├── Databases
-     ├── Servers
-     └── Services
-             │
-             ▼
-           AI / DATA
-             │
-     ├── AI
-     ├── ML
-     ├── NLP
-     └── Data Processing
-             │
-             ▼
-          SYSTEMS
-             │
-     ├── Operating Systems
-     ├── Networking
-     ├── Architecture
-     └── Distributed Systems
-             │
-             ▼
-          HARDWARE
-             │
-     ├── Microprocessors
-     ├── Microcontrollers
-     ├── Embedded Systems
-     └── Hardware Interaction
-             │
-             ▼
-       RESEARCH & R&D
+SOFTWARE
+   │
+   ├── Development
+   ├── Algorithms
+   ├── Architecture
+   └── Developer Tools
+
+WEB
+   │
+   ├── Frontend
+   ├── Backend
+   ├── APIs
+   └── Full Stack
+
+AI
+   │
+   ├── Machine Learning
+   ├── NLP
+   ├── LLM Applications
+   └── Local AI
+
+GAMES
+   │
+   ├── Gameplay
+   ├── Game Mechanics
+   ├── Interactive Systems
+   └── 2D / 3D
 ```
-
-Some technologies become projects.
-
-Some become experiments.
-
-Some simply help me understand the bigger picture.
-
-That's what I enjoy about Computer Science.
 
 ---
 
 # 🧠 My Development Philosophy
 
-> **Learn deeply. Build practically. Experiment constantly.**
+> ### **Learn deeply. Build practically. Experiment constantly.**
 
-I believe the best way to understand technology is to **build with it**.
+I don't want to learn technology only by reading about it.
 
-Instead of learning technologies only as isolated topics, I like connecting concepts across different layers — from application development and databases to AI, systems and hardware.
+I want to **build with it**.
 
-I'm comfortable exploring unfamiliar technologies, breaking things, debugging them, and rebuilding them until I understand what is actually happening.
+Sometimes that means writing something useful.  
+Sometimes it means building a strange experiment.  
+Sometimes it means breaking something just to understand why it broke.
 
----
-
-# 📚 Currently Exploring
-
-My learning is intentionally broad right now.
-
-### Software Engineering
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Software Architecture
-* Clean Code
-* System Design
-* Testing & Debugging
-
-### AI & Data
-
-* Machine Learning
-* NLP
-* LLM Applications
-* Data Processing
-* Intelligent Systems
-
-### Systems & Infrastructure
-
-* Linux
-* Networking
-* Servers
-* Cloud Computing
-* Distributed Systems
-* Operating Systems
-
-### Computer Engineering
-
-* Computer Architecture
-* Microprocessors
-* Microcontrollers
-* Embedded Systems
-* Hardware-software interaction
-
-### Creative Computing
-
-* Game Development
-* Interactive Systems
-* 2D / 3D Experiences
-* Audio / DSP
-* Simulation
+Either way, I learn something.
 
 ---
 
-# 🤝 Connect With Me
+<div align="center">
 
-<p>
-  <a href="https://www.linkedin.com/in/soumya-kushwah-a4779b353/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Shinu-ku">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:soumyakushwah73@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://soumya-kushwah.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+## ⚡ ALWAYS LEARNING. ALWAYS BUILDING.
 
----
+**Software · Web · AI · Games**
 
-# ⚡ Current Direction
+<br>
 
-```text
-                    B.TECH CSE
-                        │
-                        ▼
-              ┌───────────────────┐
-              │ Software Engineering │
-              └─────────┬─────────┘
-                        │
-          ┌─────────────┼─────────────┐
-          ▼             ▼             ▼
-        WEB            AI          SYSTEMS
-          │             │             │
-          ▼             ▼             ▼
-      BACKEND        ML / NLP      CLOUD / OS
-          │             │             │
-          └─────────────┼─────────────┘
-                        │
-             ┌──────────┴──────────┐
-             ▼                     ▼
-        GAME DEV                HARDWARE
-             │                     │
-             └──────────┬──────────┘
-                        ▼
-                 BUILD & EXPERIMENT
-                        │
-                        ▼
-                 UNDERSTAND SYSTEMS
-                        │
-                        ▼
-                  CREATE BETTER
-                    SOFTWARE
-```
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-8B5CF6?style=for-the-badge)](https://soumya-kushwah.netlify.app/)
 
-### Always Learning. Always Building.
-
-I'm exploring different areas of Computer Science, building projects, experimenting with new technologies, and developing the skills needed to become a **strong software engineer capable of working across domains**.
-
-I don't have everything figured out yet — and that's intentional.
-
-There is a lot more to explore.
+<br><br>
 
 **Build something. Break something. Understand it. Build it better.**
+
+</div>
