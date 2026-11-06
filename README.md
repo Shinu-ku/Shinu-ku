@@ -1,331 +1,199 @@
+<!--
+  Shinu-ku | Developer Profile
+  GitHub: https://github.com/Shinu-ku
+-->
+
 <div align="center">
 
-# 👋 Hi, I'm Soumya Kushwah
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:08000F,40:240046,75:5A189A,100:10002B&text=SOUMYA%20KUSHWAH&fontColor=E0AAFF&fontSize=48&fontAlignY=38&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Creative%20Engineer&descSize=17&descAlignY=60&animation=fadeIn"/>
 
-### `Software Developer` · `Web Developer` · `AI Explorer` · `Game Developer`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Building+ideas+into+reality.;Exploring+AI+and+software+development.;Python+%7C+Full+Stack+%7C+Game+Development.;Always+learning.+Always+creating." />
 
-I like turning ideas into **working software, interactive experiences, and experiments**.
+<br/>
 
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://soumya-kushwah.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shinu-ku)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-kushwah-a4779b353/)
+<a href="https://soumya-kushwah.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+<a href="https://github.com/Shinu-ku">
+<img src="https://img.shields.io/badge/GitHub-10002B?style=for-the-badge&logo=github&logoColor=E0AAFF"/>
+</a>
+<a href="https://github.com/Shinu-ku?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-240046?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a **B.Tech Computer Science & Engineering student at Noida Institute of Engineering and Technology (NIET)**, with a background in **Diploma in Engineering (Vocational IT)** from Dayalbagh Educational Institute.
+Hey there! I'm **Soumya Kushwah**, also known as **Shinu**.
 
-My main areas of interest are:
+I'm a developer passionate about building software, exploring artificial intelligence, and creating meaningful digital experiences.
 
-- 💻 **Software Development**
-- 🌐 **Web Development**
-- 🤖 **Artificial Intelligence**
-- 🎮 **Game Development**
+My interests span across AI, backend development, web technologies, automation, and game development.
 
-I learn best by **building things**. I enjoy experimenting with unfamiliar technologies, solving problems, debugging what breaks, and understanding how things work.
+I enjoy experimenting with ideas, learning new technologies, and turning concepts into functional projects.
 
-> **Build → Break → Understand → Improve**
+- Exploring Artificial Intelligence and intelligent systems
+- Building full-stack applications and developer tools
+- Experimenting with Python and software engineering
+- Learning and exploring game development
+- Always working on something new
 
----
-
-## ⚡ My Playground
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 💻
-**SOFTWARE**
-
-Applications  
-Backend  
-APIs  
-Developer Tools
-
-</td>
-<td width="25%" align="center">
-
-### 🌐
-**WEB**
-
-Frontend  
-Backend  
-Full Stack  
-Interactive UI
-
-</td>
-<td width="25%" align="center">
-
-### 🤖
-**AI**
-
-LLMs  
-NLP  
-Local AI  
-Intelligent Apps
-
-</td>
-<td width="25%" align="center">
-
-### 🎮
-**GAMES**
-
-Gameplay  
-Game Logic  
-Mechanics  
-Interactive Worlds
-
-</td>
-</tr>
-</table>
+**My long-term goal:** To become a Game Developer while continuing to build innovative software and AI-powered applications.
 
 ---
 
-# 🛠️ Tech Stack
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,nodejs,express,mongodb,fastapi,tailwind,git,github,linux,unity,unreal&theme=dark" />
+
+</div>
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-240046?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-6A0DAD?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-240046?style=flat-square&logo=javascript&logoColor=white)
 
-### Web & Backend
+### Frameworks & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-### AI & Game Development
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-10002B?style=flat-square&logo=react&logoColor=C77DFF)
+![Node.js](https://img.shields.io/badge/Node.js-10002B?style=flat-square&logo=nodedotjs&logoColor=C77DFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-10002B?style=flat-square&logo=fastapi&logoColor=C77DFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-10002B?style=flat-square&logo=mongodb&logoColor=C77DFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-10002B?style=flat-square&logo=tailwindcss&logoColor=C77DFF)
+![Git](https://img.shields.io/badge/Git-10002B?style=flat-square&logo=git&logoColor=C77DFF)
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-## 🤖 NOVA
+<a href="https://github.com/Shinu-ku/Simora-Ai-flask">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shinu-ku&repo=Simora-Ai-flask&theme=midnight-purple&hide_border=true"/>
+</a>
 
-**Offline AI Programming Assistant**
+<a href="https://github.com/Shinu-ku/QuestBoard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shinu-ku&repo=QuestBoard&theme=midnight-purple&hide_border=true"/>
+</a>
 
-An AI-powered programming assistant that runs directly from the terminal.
+</div>
 
-**Built with:**  
-`Python` `Ollama` `Rich` `Prompt Toolkit`
+### SIMORA — Business Decision Simulation Platform
 
-[→ View Repository](https://github.com/Shinu-ku/NOVA)
+An AI-powered business simulation platform designed to help businesses evaluate decisions before implementing them.
 
-</td>
-<td width="50%">
+**Highlights**
+- Business decision simulation
+- Sales and revenue analysis
+- AI-powered insights
+- Simulation and decision workflows
 
-## 🎯 QuestBoard
+**Technologies:** Python, FastAPI, React, AI
 
-**Gamified Productivity Platform**
+[Explore SIMORA →](https://github.com/Shinu-ku/Simora-Ai-flask)
 
-A backend-driven productivity system that turns tasks into quests and progression.
+### ANIA — Animated Neural Intelligent Assistant
 
-**Built with:**  
-`JavaScript` `Node.js` `Express` `MongoDB`
+An anime-inspired intelligent desktop assistant concept combining AI and interactive assistant experiences.
 
-[→ View Repository](https://github.com/Shinu-ku/QuestBoard)
+**Highlights**
+- AI-powered assistant
+- Voice interaction
+- Desktop-oriented experience
+- Intelligent conversational interface
 
-</td>
-</tr>
+**Technologies:** Python, AI, Voice Integration
 
-<tr>
-<td width="50%">
+### QuestBoard — Gamified Productivity
 
-## ⚡ Watt-Quest
+A productivity application that transforms task management into an interactive experience.
 
-**Interactive Web Project**
+**Highlights**
+- XP and leveling system
+- Quest-based productivity
+- Interactive UI
+- Gamification mechanics
 
-A web development experiment focused on interactive user experiences.
+**Technologies:** JavaScript, Node.js, Express, MongoDB
 
-**Built with:**  
-`HTML` `CSS` `JavaScript`
+[Explore QuestBoard →](https://github.com/Shinu-ku/QuestBoard)
 
-[→ View Repository](https://github.com/Shinu-ku/Watt-Quest)
+### Personal Portfolio
 
-</td>
-<td width="50%">
+My personal website showcasing my projects, development journey, and experiments.
 
-## 🥷 Ninja Training Game
-
-**Game Development Experiment**
-
-A game development project exploring gameplay, interaction, and game logic with Python.
-
-**Built with:**  
-`Python` `Pygame`
-
-[→ View Repository](https://github.com/Shinu-ku/ninja-training-game)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🌳 Project to Tree
-
-**Developer Utility**
-
-A Python utility that converts project directories into clean tree structures for documentation.
-
-**Built with:**  
-`Python` `CLI` `File System`
-
-[→ View Repository](https://github.com/Shinu-ku/Project_to_tree)
-
-</td>
-<td width="50%">
-
-## 🗂️ Tree to Project
-
-**Project Scaffolding CLI**
-
-Converts a project tree into its corresponding folders and files.
-
-**Built with:**  
-`Python` `CLI` `File System`
-
-[→ View Repository](https://github.com/Shinu-ku/tree-structure-generator)
-
-</td>
-</tr>
-</table>
+[Visit Portfolio →](https://soumya-kushwah.netlify.app)
 
 ---
 
-# 🎮 Why Game Development?
+## Recent Projects & Experiments
 
-Game development is where my interests in **programming, logic, creativity, interaction, and problem solving** come together.
+| Project | Description |
+|---|---|
+| [AgriculturalDashboard](https://github.com/Shinu-ku/AgriculturalDashboard) | Agricultural dashboard |
+| [ForestResourceSimulator](https://github.com/Shinu-ku/ForestResourceSimulator) | Forest resource simulation |
+| [MediNav-AI](https://github.com/Shinu-ku/MediNav-AI) | AI-oriented healthcare project |
+| [NetOS-Monitor](https://github.com/Shinu-ku/NetOS-Monitor) | Monitoring project |
+| [CSOC-prototype](https://github.com/Shinu-ku/csoc-prototype) | Cybersecurity prototype |
+| [Campus Management AI](https://github.com/Shinu-ku/AI-Powered-Campus-Management-Complaint-intelligence) | AI-powered campus complaint intelligence |
 
-I'm interested in building:
-
-- Gameplay systems
-- Game mechanics
-- Player interaction
-- 2D / 3D experiences
-- Simulations
-- Interactive systems
-
-I see game development as another way to explore software — just with a much more interactive output.
+[Explore all my repositories →](https://github.com/Shinu-ku?tab=repositories)
 
 ---
 
-# 🤖 AI × Software
+## GitHub Statistics
 
-I'm particularly interested in using AI as part of real software rather than only studying models in isolation.
+<div align="center">
 
-One example is **NOVA**, my offline AI programming assistant using local inference with Ollama.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shinu-ku&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
 
-I'm currently exploring:
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinu-ku&layout=compact&theme=midnight-purple&hide_border=true"/>
 
-`Machine Learning` · `NLP` · `LLM Applications` · `Local AI` · `AI Developer Tools`
+<br/><br/>
 
----
+<img width="75%" src="https://streak-stats.demolab.com?user=Shinu-ku&theme=midnight-purple&hide_border=true"/>
 
-# 🧪 Experiments
-
-Not everything I build needs to become a large production project.
-
-Some projects are simply experiments created to:
-
-- Understand a concept
-- Try a new technology
-- Solve a small problem
-- Build something from scratch
-- See what happens
-
-That's an important part of how I learn.
+</div>
 
 ---
 
-# 📈 Currently Exploring
+## Contribution Graph
 
-```text
-SOFTWARE
-   │
-   ├── Development
-   ├── Algorithms
-   ├── Architecture
-   └── Developer Tools
+<div align="center">
 
-WEB
-   │
-   ├── Frontend
-   ├── Backend
-   ├── APIs
-   └── Full Stack
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shinu-ku&bg_color=090014&color=C77DFF&line=9D4EDD&point=E0AAFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
-AI
-   │
-   ├── Machine Learning
-   ├── NLP
-   ├── LLM Applications
-   └── Local AI
-
-GAMES
-   │
-   ├── Gameplay
-   ├── Game Mechanics
-   ├── Interactive Systems
-   └── 2D / 3D
-```
+</div>
 
 ---
 
-# 🧠 My Development Philosophy
+## Currently Exploring
 
-> ### **Learn deeply. Build practically. Experiment constantly.**
-
-I don't want to learn technology only by reading about it.
-
-I want to **build with it**.
-
-Sometimes that means writing something useful.  
-Sometimes it means building a strange experiment.  
-Sometimes it means breaking something just to understand why it broke.
-
-Either way, I learn something.
+- Artificial Intelligence and intelligent systems
+- Backend development and scalable applications
+- Game development and interactive experiences
+- Python-based tools and automation
+- New technologies and creative software projects
 
 ---
 
 <div align="center">
 
-## ⚡ ALWAYS LEARNING. ALWAYS BUILDING.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:10002B,50:5A189A,100:08000F"/>
 
-**Software · Web · AI · Games**
+### Thanks for visiting!
 
-<br>
+*Building things, learning things, and making ideas real.*
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-8B5CF6?style=for-the-badge)](https://soumya-kushwah.netlify.app/)
-
-<br><br>
-
-**Build something. Break something. Understand it. Build it better.**
+<a href="https://github.com/Shinu-ku">
+<img src="https://img.shields.io/badge/Explore_My_GitHub-240046?style=for-the-badge&logo=github&logoColor=E0AAFF"/>
+</a>
 
 </div>
