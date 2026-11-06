@@ -58,7 +58,8 @@ I enjoy experimenting with ideas, learning new technologies, and turning concept
 ![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-240046?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-6A0DAD?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-240046?style=flat-square&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-240046?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6A0DAD?style=flat-square&logo=javascript&logoColor=white)
 
 ### Frameworks & Tools
 
@@ -70,108 +71,159 @@ I enjoy experimenting with ideas, learning new technologies, and turning concept
 ![Git](https://img.shields.io/badge/Git-10002B?style=flat-square&logo=git&logoColor=C77DFF)
 
 ---
-
 ## Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Shinu-ku/Simora-Ai-flask">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shinu-ku&repo=Simora-Ai-flask&theme=midnight-purple&hide_border=true"/>
-</a>
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/Shinu-ku/QuestBoard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shinu-ku&repo=QuestBoard&theme=midnight-purple&hide_border=true"/>
-</a>
+### SIMORA
+
+AI-powered business decision simulation platform designed to evaluate business decisions before implementation.
+
+**Tech:** Python · FastAPI · React · AI
+
+<a href="https://github.com/Shinu-ku/Simora-Ai-flask">Explore Project →</a>
+
+</td>
+<td width="50%">
+
+### ANIA
+
+Animated Neural Intelligent Assistant — an AI assistant concept combining intelligent conversations, voice interaction, and an anime-inspired desktop experience.
+
+**Tech:** Python · AI · Voice Integration
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### QuestBoard
+
+A gamified productivity and task management application featuring XP, levels, interactive interfaces, and quest-based task management.
+
+**Tech:** JavaScript · Node.js · Express · MongoDB
+
+<a href="https://github.com/Shinu-ku/QuestBoard">Explore Project →</a>
+
+</td>
+<td width="50%">
+
+### MediNav AI
+
+An AI-oriented healthcare project exploring intelligent solutions for healthcare-related applications.
+
+**Focus:** Artificial Intelligence · Healthcare
+
+<a href="https://github.com/Shinu-ku/MediNav-AI">Explore Project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Forest Resource Simulator
+
+A simulation project focused on forest resources and environmental systems.
+
+**Focus:** Simulation · Environmental Systems
+
+<a href="https://github.com/Shinu-ku/ForestResourceSimulator">Explore Project →</a>
+
+</td>
+<td width="50%">
+
+### Agricultural Dashboard
+
+A dashboard project focused on agricultural information and data visualization.
+
+**Focus:** Agriculture · Dashboard Development
+
+<a href="https://github.com/Shinu-ku/AgriculturalDashboard">Explore Project →</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-### SIMORA — Business Decision Simulation Platform
+---
+## More Projects
 
-An AI-powered business simulation platform designed to help businesses evaluate decisions before implementing them.
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Domain</th>
+</tr>
 
-**Highlights**
-- Business decision simulation
-- Sales and revenue analysis
-- AI-powered insights
-- Simulation and decision workflows
+<tr>
+<td><a href="https://github.com/Shinu-ku/NetOS-Monitor">NetOS Monitor</a></td>
+<td>A monitoring project focused on system or network-related information.</td>
+<td>Monitoring</td>
+</tr>
 
-**Technologies:** Python, FastAPI, React, AI
+<tr>
+<td><a href="https://github.com/Shinu-ku/csoc-prototype">CSOC Prototype</a></td>
+<td>A prototype exploring cybersecurity operations and security monitoring concepts.</td>
+<td>Cybersecurity</td>
+</tr>
 
-[Explore SIMORA →](https://github.com/Shinu-ku/Simora-Ai-flask)
+<tr>
+<td><a href="https://github.com/Shinu-ku/AI-Powered-Campus-Management-Complaint-intelligence">Campus Management AI</a></td>
+<td>An AI-powered campus management and complaint intelligence project.</td>
+<td>AI · Education</td>
+</tr>
 
-### ANIA — Animated Neural Intelligent Assistant
+<tr>
+<td>Nostalgia Wheels</td>
+<td>A Hot Wheels-inspired e-commerce application with product browsing and administrative functionality.</td>
+<td>Full-Stack Development</td>
+</tr>
 
-An anime-inspired intelligent desktop assistant concept combining AI and interactive assistant experiences.
+<tr>
+<td>Childhood Play School</td>
+<td>A website developed for a preschool, featuring school information, programs, admissions, and contact functionality.</td>
+<td>Web Development</td>
+</tr>
 
-**Highlights**
-- AI-powered assistant
-- Voice interaction
-- Desktop-oriented experience
-- Intelligent conversational interface
+<tr>
+<td>Personal Portfolio</td>
+<td>A personal developer portfolio featuring a creative 3D galaxy-inspired experience.</td>
+<td>Creative Development</td>
+</tr>
 
-**Technologies:** Python, AI, Voice Integration
-
-### QuestBoard — Gamified Productivity
-
-A productivity application that transforms task management into an interactive experience.
-
-**Highlights**
-- XP and leveling system
-- Quest-based productivity
-- Interactive UI
-- Gamification mechanics
-
-**Technologies:** JavaScript, Node.js, Express, MongoDB
-
-[Explore QuestBoard →](https://github.com/Shinu-ku/QuestBoard)
-
-### Personal Portfolio
-
-My personal website showcasing my projects, development journey, and experiments.
-
-[Visit Portfolio →](https://soumya-kushwah.netlify.app)
+</table>
 
 ---
 
-## Recent Projects & Experiments
+## Explore More
 
-| Project | Description |
-|---|---|
-| [AgriculturalDashboard](https://github.com/Shinu-ku/AgriculturalDashboard) | Agricultural dashboard |
-| [ForestResourceSimulator](https://github.com/Shinu-ku/ForestResourceSimulator) | Forest resource simulation |
-| [MediNav-AI](https://github.com/Shinu-ku/MediNav-AI) | AI-oriented healthcare project |
-| [NetOS-Monitor](https://github.com/Shinu-ku/NetOS-Monitor) | Monitoring project |
-| [CSOC-prototype](https://github.com/Shinu-ku/csoc-prototype) | Cybersecurity prototype |
-| [Campus Management AI](https://github.com/Shinu-ku/AI-Powered-Campus-Management-Complaint-intelligence) | AI-powered campus complaint intelligence |
+<div align="center">
 
-[Explore all my repositories →](https://github.com/Shinu-ku?tab=repositories)
+<a href="https://github.com/Shinu-ku?tab=repositories">
 
+<img src="https://img.shields.io/badge/Explore_All_Projects-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
 ---
 
 ## GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shinu-ku&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Shinu-ku&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=C77DFF&text_color=E6EDF3"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinu-ku&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Shinu-ku&theme=midnight-purple&hide_border=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shinu-ku&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E6EDF3"/>
 
 </div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shinu-ku&bg_color=090014&color=C77DFF&line=9D4EDD&point=E0AAFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
 ---
 
 ## Currently Exploring
